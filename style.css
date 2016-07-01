@@ -1,0 +1,9 @@
+img {
+    width: 100%;
+    max-width: 400px;
+    border: solid 1px lightgrey;
+}
+
+blu {
+    color: #003366;
+}
