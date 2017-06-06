@@ -65,3 +65,51 @@ img {
     color: white !important;
     border-bottom: 2px solid white;
 }
+
+.card{
+    border: 1px solid grey;
+}
+.card-header{
+    padding: 15px;
+    background-color: darkred;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+}
+.card-body{
+    padding: 0 15px 15px 15px;
+}
+
+.col-xs-5ths,
+.col-sm-5ths,
+.col-md-5ths,
+.col-lg-5ths {
+    position: relative;
+    min-height: 1px;
+    padding: 0 5px;
+    border: 1px grey solid;
+}
+
+.col-xs-5ths {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-5ths {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-5ths {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-5ths {
+        width: 20%;
+        float: left;
+    }
+}
