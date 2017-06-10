@@ -66,50 +66,29 @@ img {
     border-bottom: 2px solid white;
 }
 
-.card{
-    border: 1px solid grey;
-}
-.card-header{
-    padding: 15px;
-    background-color: darkred;
-    font-size: 2em;
-    text-align: center;
-    color: white;
-    font-weight: 500;
-}
-.card-body{
-    padding: 0 15px 15px 15px;
+.border-rt{
+    border-right: 2px solid grey !important;
 }
 
-.col-xs-5ths,
-.col-sm-5ths,
-.col-md-5ths,
-.col-lg-5ths {
-    position: relative;
-    min-height: 1px;
-    padding: 0 5px;
-    border: 1px grey solid;
+/* Landscape tablets and medium desktops */
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+
+/* Portrait tablets and small desktops */
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+
+/* Landscape phones and portrait tablets */
+
+@media (max-width: 767px) {
+    .border-rt{
+        border-right: none !important;
+    }
 }
 
-.col-xs-5ths {
-    width: 20%;
-    float: left;
-}
-@media (min-width: 768px) {
-.col-sm-5ths {
-        width: 20%;
-        float: left;
-    }
-}
-@media (min-width: 992px) {
-    .col-md-5ths {
-        width: 20%;
-        float: left;
-    }
-}
-@media (min-width: 1200px) {
-    .col-lg-5ths {
-        width: 20%;
-        float: left;
-    }
-}
+
+/* Portrait phones and smaller */
+
+@media (max-width: 480px) {}
