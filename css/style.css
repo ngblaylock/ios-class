@@ -1,3 +1,11 @@
+.secret-link{
+    opacity: 0.0;
+}
+.secret-link:hover{
+    opacity: 0.1;
+    cursor: default;
+}
+
 img {
     width: 100%;
     max-width: 400px;
@@ -6,26 +14,6 @@ img {
 
 .year {
     padding: 5px 20px;
-}
-
-.blu {
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ce27a7+0,6429c4+100 */
-    background: #ce27a7;
-    /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #ce27a7 0%, #6429c4 100%);
-    /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #ce27a7 0%, #6429c4 100%);
-    /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #ce27a7 0%, #6429c4 100%);
-    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ce27a7', endColorstr='#6429c4', GradientType=1);
-    /* IE6-9 fallback on horizontal gradient */
-    color: white;
-    -webkit-transition: all 1.0s ease;
-    -moz-transition: all 1.0s ease;
-    -o-transition: all 1.0s ease;
-    -ms-transition: all 1.0s ease;
-    transition: all 1.0s ease;
 }
 
 .red {
@@ -65,3 +53,46 @@ img {
     color: white !important;
     border-bottom: 2px solid white;
 }
+
+.border-rt{
+    border-right: 2px solid grey !important;
+}
+
+.yr-link > div{
+    transition: .2s;
+}
+.yr-link p{
+    padding: 10px;
+}
+
+.yr-link > div:hover{
+    transition: .2s;
+}
+.yr-link img{
+    padding: 10px;
+    transition: .2s;
+}
+
+
+/* Landscape tablets and medium desktops */
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+
+/* Portrait tablets and small desktops */
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+
+/* Landscape phones and portrait tablets */
+
+@media (max-width: 767px) {
+    .border-rt{
+        border-right: none !important;
+    }
+}
+
+
+/* Portrait phones and smaller */
+
+@media (max-width: 480px) {}
