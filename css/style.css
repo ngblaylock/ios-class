@@ -5,7 +5,9 @@
     opacity: 0.1;
     cursor: default;
 }
-
+.bg-red{
+    background-color: #f7f0ea;
+}
 img {
     width: 100%;
     max-width: 400px;
@@ -47,6 +49,9 @@ img {
     color: white;
     font-size: 1.2em;
     text-decoration: none;
+}
+.jumbotron{
+    margin-bottom: 0;
 }
 
 .selected {
