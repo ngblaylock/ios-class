@@ -1,4 +1,2 @@
-# all-about-apps
-All About Apps Class Resources for the Summer Citizens program at USU
-
-Follow the instructions
+# Nathan's iOS Class
+This is a class resource for the Summer Citizen program at USU
