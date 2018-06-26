@@ -55,7 +55,8 @@ Overall Feedback
 - I think it is important to talk about alternatives because not everyone has an apple device.
 
 ### Wednesday, Productivity
-- Photobooks
+- Photobooks video
+- Talk about cloud storage, files app, documents, spreadsheets, presentations, browsers, and mail.
 
 ### Thursday, Entertainment
 - Lego AR
