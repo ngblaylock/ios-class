@@ -44,13 +44,14 @@
 
 ## All About Apps
 
-Overall Feedback
+### Overall Feedback
 
 ### Monday, App Store
 - Went really well. I talked only about what apps are, how to navigate through the app store, and how to rearange, delete, close, and exit apps. Did better at distinguishing between ipad and iphone.
 - Some people looked a little bored, but for the most part people were very interested and asked good questions.
 
 ### Tuesday, Communication
+- Show the Slack commercial
 - I talked about phone, messages, facetime, and find your friends and also some popular alternatives.
 - I think it is important to talk about alternatives because not everyone has an apple device.
 
