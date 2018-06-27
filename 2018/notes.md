@@ -54,6 +54,8 @@
 - Show the Slack commercial
 - I talked about phone, messages, facetime, and find your friends and also some popular alternatives.
 - I think it is important to talk about alternatives because not everyone has an apple device.
+- There was a lot of engagement and everyone seemed to be on track and interested. Many thanked me for the class.
+- It was important to demonstrate why you would want to use one over another. One man said that he wish he would have known about some of the apps a few years ago to save money.
 
 ### Wednesday, Productivity
 - Photobooks video
