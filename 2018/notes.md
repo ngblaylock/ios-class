@@ -77,6 +77,25 @@
 - Talk about connecting your phone to iTunes and photos on a mac
 - Talk about connecting your phone to iTunes and access photos on a Windows
 - Talk about Cross computer compatability
+    - Passwords
 - Talk about iCloud on a mac, and on a windows
 - Talk about Google Drive on a mac, and on a windows
 - Talk about Microsoft OneDrive on a mac and on a windows
+- Family Sharing
+
+### Monday, iCloud Storage
+- What is iCloud
+- Access iCloud on a Mac
+- Access iCloud on a PC
+- Access iCloud through a browser
+
+### Tuesday, Devices and Computers I
+- Connect to iTunes with Windows and Mac
+- Connect to transfer photos
+- Why I use Google Photos
+
+### Wednesday, Devices and Computers II (Photos)
+
+### Thursday, Sharing through iCloud
+
+### Friday
