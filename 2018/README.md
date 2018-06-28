@@ -66,6 +66,9 @@
 
 ### Thursday, Entertainment
 - Show the Lego AR video
+- This went well. They liked the lego video.
+- A lot of people were interested in the Pandora, Spotify, and Amazon Music app.
+- One student brought up the Chromecast, and a lot of people were interested in that.
 
 ### Friday, Education, Class Choice
 - Show Apples commercial for iPad for Education
@@ -89,13 +92,24 @@
 - Access iCloud on a PC
 - Access iCloud through a browser
 
-### Tuesday, Devices and Computers I
+### Tuesday, Devices and Computers
 - Connect to iTunes with Windows and Mac
+- Manage Media
 - Connect to transfer photos
 - Why I use Google Photos
 
-### Wednesday, Devices and Computers II (Photos)
+### Wednesday, Devices
+- Bluetooth Headphones and Speakers
+- Bluetooth Keyboard
+- Apple TV
+- Chromecast
+    - Mention Roku, Amazon Fire, Smart TV's
+
 
 ### Thursday, Sharing through iCloud
+- Accounts
+- Sharing Menu
+    - Air Drop
+- Family Sharing
 
 ### Friday
