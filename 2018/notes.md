@@ -49,6 +49,7 @@
 ### Monday, App Store
 - Went really well. I talked only about what apps are, how to navigate through the app store, and how to rearange, delete, close, and exit apps. Did better at distinguishing between ipad and iphone.
 - Some people looked a little bored, but for the most part people were very interested and asked good questions.
+- I didn't start off with my website, which helped not confuse people. I did tell them about it, but just showed 'ios.nathanblaylock.com' on the page so they could write it down, then I showed them the page and what is on it.
 
 ### Tuesday, Communication
 - Show the Slack commercial
@@ -58,11 +59,24 @@
 - It was important to demonstrate why you would want to use one over another. One man said that he wish he would have known about some of the apps a few years ago to save money.
 
 ### Wednesday, Productivity
-- Photobooks video
+- Chatbooks video, the class was laughing the whole time
 - Talk about cloud storage, files app, documents, spreadsheets, presentations, browsers, and mail.
+- Many people found that this day was very informative. A lot still had a lot of questions about cloud storage and how to use it with their computer. I told them that I was going to cover that in my intermediate iOS class.
+- Students shared apps at the beginning which had a great conversation.
 
 ### Thursday, Entertainment
-- Lego AR
+- Show the Lego AR video
 
 ### Friday, Education, Class Choice
+- Show Apples commercial for iPad for Education
 - Star Gazing App
+
+---
+
+## Intermediate iOS
+- Talk about connecting your phone to iTunes and photos on a mac
+- Talk about connecting your phone to iTunes and access photos on a Windows
+- Talk about Cross computer compatability
+- Talk about iCloud on a mac, and on a windows
+- Talk about Google Drive on a mac, and on a windows
+- Talk about Microsoft OneDrive on a mac and on a windows
