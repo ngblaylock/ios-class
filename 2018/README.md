@@ -71,22 +71,26 @@
 - One student brought up the Chromecast, and a lot of people were interested in that.
 
 ### Friday, Education, Class Choice
-- Show Apples commercial for iPad for Education
-- Star Gazing App
+- ~~Show Apples commercial for iPad for Education~~
+- ~~Star Gazing App~~
+- Didn't show either of the above, just continued in Google Photos. They loved Google Photos, and thought it was pretty amazing. 
+- I tried to show them the scanner app. My iPhone wouldn't cast to the Apple TV, so I just tried with the iPad, which wasn't as good.
+- I either need a new Apple TV or a new iPhone. I need to try out the Apple TV 3 from work. Maybe that is the fix.
+- The questions and answers were good, but I don't think they had as much time to think about what they don't know. Maybe 15 mintues at the end of each day would be a good idea.
+- A lot of people said that they wished they could take my intermediate iOS class, but had a conflict. They appreciated that the slides are online to view, and I reminded them that the YETC is available as a resource
+- A couple in the class gave me a bag of chocolates and a nice note. They gave me a 5 Star class. I also got a small applause and a lot of thumbs up and good comments as everyone walked out of the class.
+- More people said that they signed up for the intermediate iOS class.
+- I brought a printout to class to help one person with an issue with the U2 album. They appreciated that individual work.
+- I asked Syndey about continuing next year with some sort of workaround. She said she will pass it on to Linda. 
+- It would be really nice to teach again because the curriculum is very well structured this year.
 
 ---
 
 ## Intermediate iOS
-- Talk about connecting your phone to iTunes and photos on a mac
-- Talk about connecting your phone to iTunes and access photos on a Windows
-- Talk about Cross computer compatability
-    - Passwords
-- Talk about iCloud on a mac, and on a windows
-- Talk about Google Drive on a mac, and on a windows
-- Talk about Microsoft OneDrive on a mac and on a windows
-- Family Sharing
 
 ### Monday, iCloud Storage
+- Apple ID and Password
+     - Dual Authentication
 - What is iCloud
 - Access iCloud on a Mac
 - Access iCloud on a PC
@@ -113,3 +117,5 @@
 - Family Sharing
 
 ### Friday
+- iOS 12, upcomming features
+- Apps to replace other things
