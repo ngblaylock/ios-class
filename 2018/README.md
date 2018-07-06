@@ -96,7 +96,7 @@
 - Access iCloud on a PC
 - Access iCloud through a browser
 
-### Tuesday, Devices and Computers
+### Tuesday, Computer Connectivity
 - Connect to iTunes with Windows and Mac
 - Manage Media
 - Connect to transfer photos
@@ -110,7 +110,7 @@
     - Mention Roku, Amazon Fire, Smart TV's
 
 
-### Thursday, Sharing through iCloud
+### Thursday, Advanced Sharing
 - Accounts
 - Sharing Menu
     - Air Drop
