@@ -109,7 +109,6 @@
 - Chromecast
     - Mention Roku, Amazon Fire, Smart TV's
 
-
 ### Thursday, Advanced Sharing
 - Accounts
 - Sharing Menu
@@ -117,5 +116,5 @@
 - Family Sharing
 
 ### Friday
+- Accessibility
 - iOS 12, upcomming features
-- Apps to replace other things
