@@ -67,6 +67,7 @@
 ### Thursday, Entertainment
 - Show the Lego AR video
 - This went well. They liked the lego video.
+- For Games, a funny one would be the Dumb Ways to Die video and game demo
 - A lot of people were interested in the Pandora, Spotify, and Amazon Music app.
 - One student brought up the Chromecast, and a lot of people were interested in that.
 
