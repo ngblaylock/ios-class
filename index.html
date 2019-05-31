@@ -28,7 +28,7 @@
         <p>This is a resource page for the Summer Citizens program at Utah State University</p><span class='secret-hidden hidden'> <a class="year sixteen">2016</a> <a class="year seventeen">2017</a> <a class='year eighteen'>2018</a></span> <a class='year nineteen selected'>2019</a> </div>
 
     <!-- ...................................... INSTRUCTIONS ...................................... -->
-    <div class="container-fluid bg-red" style="margin-top: 0;padding: 15px;">
+    <!-- <div class="container-fluid bg-red" style="margin-top: 0;padding: 15px;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2">
@@ -49,7 +49,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
    <!-- ...................................... 2019 ...................................... -->
     <div class="container yr yr2019">
         <!-- ...................................... BEGINNER iOS ...................................... -->
@@ -63,6 +63,9 @@
             </div>
             <div class="col-sm-4">
                 <a href="/2019/beginner-ios/1-monday-basics.pdf" target="_blank"><img src="/2019/beginner-ios/1-monday-ss" alt="course syllabi" /></a>
+            </div>
+            <div class="col-sm-4">
+                <a href="/2019/beginner-ios/2-tuesday-communication.pdf" target="_blank"><img src="/2019/beginner-ios/2-tuesday-ss.png" alt="course syllabi" /></a>
             </div>
 
         </div>
@@ -523,6 +526,10 @@
             $(".eighteen").click(function() {
                 $(".yr").hide();
                 $(".yr2018").fadeIn();
+            });
+            $(".nineteen").click(function() {
+                $(".yr").hide();
+                $(".yr2019").fadeIn();
             });
             //change appearance of year button
             $('.jumbotron a').click(function(e) {

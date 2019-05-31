@@ -5,6 +5,7 @@ As an instructor for the 2019 Summer Citizens Program a registration link is pro
 Week 1 (June 3 - June 7) - 114 - Beginner iOS (M-F):
 http://summercitizens.usu.edu/system/reports/results_instructors.cfm?fid=35&title=Week%201%20(June%203%20-%20June%207)%20-%20114%20-%20Beginner%20iOS%20(M-F)&eid=20213
 
+
 Week 3 (June 17 - June 21) - 124 - All About iOS Apps (M-F):
 http://summercitizens.usu.edu/system/reports/results_instructors.cfm?fid=45&title=Week%203%20(June%2017%20-%20June%2021)%20-%20124%20-%20All%20About%20iOS%20Apps%20(M-F)&eid=20213
 
